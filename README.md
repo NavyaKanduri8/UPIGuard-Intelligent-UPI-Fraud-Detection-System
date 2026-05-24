@@ -18,6 +18,106 @@ This project detects fraudulent UPI transactions using Machine Learning.
 - Transaction History
 - Fraud Analytics Dashboard
 - Payment Blocking
+## Modules
+
+- User Authentication Module
+- Fraud Detection Module
+- Risk Evaluation Module
+- Transaction History Module
+- Admin Dashboard Module
+- Database Management Module
+
+---
+
+## Machine Learning Algorithm
+
+### Logistic Regression
+The project uses Logistic Regression for fraud prediction.  
+It classifies transactions as:
+- Fraud
+- Safe
+
+based on transaction probability.
+
+---
+
+## Python Libraries Used
+
+- pandas
+- numpy
+- flask
+- scikit-learn
+- matplotlib
+- seaborn
+- mysql-connector-python
+- joblib
+
+---
+
+## System Architecture
+
+The system contains:
+
+1. User Interface  
+2. Flask Backend  
+3. Machine Learning Model  
+4. MySQL Database  
+5. Admin Dashboard  
+6. Fraud Detection Engine
+
+---
+
+## Flow of Project
+
+1. User enters transaction details  
+2. Flask backend receives data  
+3. Features are processed  
+4. Logistic Regression predicts fraud probability  
+5. System classifies transaction  
+6. Fraudulent transactions are blocked  
+7. Results stored in MySQL database  
+8. Admin dashboard displays analytics
+
+---
+
+## Dataset
+
+Credit Card Fraud Detection Dataset
+
+Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+---
+
+## Future Enhancements
+
+- Deep Learning Integration
+- Real-time Fraud Alerts
+- OTP Verification
+- SMS & Email Notifications
+- AI-based Behavioral Analysis
+
+---
+
+## Output Screenshots
+
+### Login Page
+(Add screenshot here)
+
+### User Dashboard
+(Add screenshot here)
+
+### Admin Dashboard
+(Add screenshot here)
+
+### Fraud Detection Result
+(Add screenshot here)
+
+---
+
+## Conclusion
+
+This project successfully detects suspicious UPI transactions using Machine Learning and helps improve digital payment security.
 
 ## Machine Learning Algorithm
 - Logistic Regression
