@@ -157,4 +157,4 @@ This project successfully detects suspicious UPI transactions using Machine Lear
 
 ---
 
-Made with ❤️ using Flask and Machine Learning
+Made with  using Flask and Machine Learning
