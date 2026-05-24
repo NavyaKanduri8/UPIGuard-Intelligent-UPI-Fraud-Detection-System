@@ -100,19 +100,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## 📸 Output Screenshots
 
-### 🔐 Login Page
-(Add screenshot here)
-
-### 👤 User Dashboard
-(Add screenshot here)
-
-### 🛡 Admin Dashboard
-(Add screenshot here)
-
-### ⚠ Fraud Detection Result
-(Add screenshot here)
 
 ---
 ## 📂 Project Structure
