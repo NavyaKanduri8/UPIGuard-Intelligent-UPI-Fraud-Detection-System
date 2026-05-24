@@ -115,10 +115,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## Conclusion
-
-This project successfully detects suspicious UPI transactions using Machine Learning and helps improve digital payment security.
-
 ## Machine Learning Algorithm
 - Logistic Regression
 
@@ -136,3 +132,6 @@ Credit Card Fraud Detection Dataset
 ```bash
 pip install -r requirements.txt
 python app.py
+## Conclusion
+
+This project successfully detects suspicious UPI transactions using Machine Learning and helps improve digital payment security.
