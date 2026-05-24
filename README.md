@@ -115,6 +115,37 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 (Add screenshot here)
 
 ---
+## 📂 Project Structure
+
+```bash
+UPIGuard-Intelligent-UPI-Fraud-Detection-System/
+│
+├── app.py
+├── model.py
+├── eda.py
+├── fraud_model.pkl
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── creditcard.csv
+│
+├── templates/
+│   ├── admin_dashboard.html
+│   ├── history.html
+│   ├── login.html
+│   ├── result.html
+│   ├── user_check.html
+│   └── user_dashboard.html
+│
+└── screenshots/
+    ├── login.png
+    ├── user_dashboard.png
+    ├── admin_dashboard.png
+    ├── result.png
+    ├── flowchart.png
+    └── architecture.png
+```
 
 ## ▶ How to Run
 
