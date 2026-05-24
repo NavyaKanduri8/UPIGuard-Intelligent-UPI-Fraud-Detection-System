@@ -143,10 +143,12 @@ python app.py
 ```
 
 ---
+# ✅ Conclusion
 
-## ✅ Conclusion
-This project successfully detects suspicious UPI transactions using Machine Learning and helps improve digital payment security.
+This project successfully detects suspicious UPI transactions using Machine Learning and improves digital payment security using fraud prediction techniques.
+
 ---
+
 # 👩‍💻 Contributors
 
 - Navya
@@ -155,4 +157,4 @@ This project successfully detects suspicious UPI transactions using Machine Lear
 
 ---
 
-Made with  using Flask and Machine Learning
+Made with ❤️ using Flask and Machine Learning
